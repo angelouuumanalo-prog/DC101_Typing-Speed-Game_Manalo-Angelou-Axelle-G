@@ -14,6 +14,7 @@ The game features a clean and responsive user interface, countdown timers, dynam
 This project was created solely for educational purposes.
 ________________________________________
 How to Play
+
 1.Press the Start Typing button to begin the game.
 
 2.The game starts at Level 1, displaying a word or sentence in the typing area.
