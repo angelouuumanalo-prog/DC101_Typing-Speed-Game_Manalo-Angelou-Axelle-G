@@ -1,4 +1,4 @@
-Speed Typing Challenge
+Speed Typing Game
 
 Author: Angelouuu Manalo
 
