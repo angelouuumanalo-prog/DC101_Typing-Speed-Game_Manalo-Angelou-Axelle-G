@@ -15,19 +15,21 @@ This project was created solely for educational purposes.
 
 
 How to Play
-
+________________________________________
 1.Press the Start Typing button to begin the game.
+
 2.The game starts at Level 1, displaying a word or sentence in the typing area.
+
 3.A timer will begin counting down as soon as the text appears.
 
-Type the displayed text accurately into the input box.
+4.Type the displayed text accurately into the input box.
 
-Correct characters are highlighted, while mistakes are indicated in real time.
+5.Correct characters are highlighted, while mistakes are indicated in real time.
 
-Points are awarded based on typing speed and accuracy.
+6.Points are awarded based on typing speed and accuracy.
 
-Completing the text before the timer ends advances the player to the next level.
+7.Completing the text before the timer ends advances the player to the next level.
 
-Players can restart the game at any time or return to the main menu.
+8.Players can restart the game at any time or return to the main menu.
 
-The game progresses through multiple levels with increasing difficulty by introducing longer texts and shorter time limits.
+9.The game progresses through multiple levels with increasing difficulty by introducing longer texts and shorter time limits.
