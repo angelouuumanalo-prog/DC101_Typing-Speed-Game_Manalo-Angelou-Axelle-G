@@ -1,6 +1,9 @@
 Speed Typing Challenge
+
 Author: Angelouuu Manalo
+
 Course: DC 101 – Web Development
+
 Project Title: Speed Typing Challenge
 Mode: Individual Work
 ________________________________________
